@@ -76,13 +76,4 @@
         </ul>
     </div>
 </body>
-<style>
-    body {
-    background: linear-gradient(purple, black, purple)
-}
-
-.Eu{
-    text-decoration: none;
-}
-</style>
 </html>
